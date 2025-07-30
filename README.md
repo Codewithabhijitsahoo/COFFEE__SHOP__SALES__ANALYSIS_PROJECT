@@ -44,7 +44,6 @@ Quantity, sales amount, footfall
 Store locations and day-wise trends
 
 ## 🎯 Objective:
-To demonstrate how business intelligence and data visualization can be effectively implemented in Excel for small to medium-sized retail operations. The dashboard provides actionable insights for optimizing operations, marketing, and product focus.
-
+The main objective of this project is to analyze retail sales data to gain actionable insights that will enhance the performance of the coffee shop
 # dataset
 <a href="
