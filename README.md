@@ -36,8 +36,11 @@ No external add-ins required – works with standard Excel functionality
 
 ## KPI'S
 total sales 
+
 foot  fall
+
 avg bill / person
+
 avg orderd / person
 
 ## 📁 Data Includes:
