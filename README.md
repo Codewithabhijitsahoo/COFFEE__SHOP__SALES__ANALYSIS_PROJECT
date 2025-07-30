@@ -53,6 +53,5 @@ The main objective of this project is to analyze retail sales data to gain actio
 ## dashboard
 <a href="https://github.com/Codewithabhijitsahoo/COFFEE__SHOP__SALES__ANALYSIS_PROJECT/blob/main/Screenshot%202025-07-10%20073054.png">dashboard</a>
 
-
-![Uploading Screenshot 2025-07-10 073005.png…]()
+https://github.com/Codewithabhijitsahoo/COFFEE__SHOP__SALES__ANALYSIS_PROJECT/blob/main/Screenshot%202025-07-10%20073054.png
 
