@@ -34,6 +34,12 @@ Clear visual storytelling with a minimalist and professional design
 
 No external add-ins required – works with standard Excel functionality
 
+# KPI'S
+total sales 
+foot  fall
+avg bill / person
+avg orderd / person
+
 ## 📁 Data Includes:
 Date & Time of orders
 
