@@ -47,3 +47,5 @@ Store locations and day-wise trends
 The main objective of this project is to analyze retail sales data to gain actionable insights that will enhance the performance of the coffee shop
 # dataset
 <a href="https://github.com/Codewithabhijitsahoo/COFFEE__SHOP__SALES__ANALYSIS_PROJECT/blob/main/coffe%20shop%20analysis%20data.xlsx">data_set</a>
+## recommended analysis
+<a href="https://github.com/Codewithabhijitsahoo/COFFEE__SHOP__SALES__ANALYSIS_PROJECT/blob/main/objective%20and%20analysis.pdf"> recommended analysis</a>
