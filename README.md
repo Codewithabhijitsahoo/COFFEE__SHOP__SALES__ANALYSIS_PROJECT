@@ -49,3 +49,6 @@ The main objective of this project is to analyze retail sales data to gain actio
 <a href="https://github.com/Codewithabhijitsahoo/COFFEE__SHOP__SALES__ANALYSIS_PROJECT/blob/main/coffe%20shop%20analysis%20data.xlsx">data_set</a>
 ## recommended analysis
 <a href="https://github.com/Codewithabhijitsahoo/COFFEE__SHOP__SALES__ANALYSIS_PROJECT/blob/main/objective%20and%20analysis.pdf"> recommended analysis</a>
+
+## dashboard
+<a href="https://github.com/Codewithabhijitsahoo/COFFEE__SHOP__SALES__ANALYSIS_PROJECT/blob/main/Screenshot%202025-07-10%20073054.png">dashboard</a>
